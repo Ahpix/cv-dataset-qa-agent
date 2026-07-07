@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+demo_dataset_full/
+*.pt
+*.pth
+*.ckpt
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Logs
+*.log

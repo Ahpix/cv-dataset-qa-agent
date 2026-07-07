@@ -232,3 +232,6 @@ demo_dataset_full/
 
 # Logs
 *.log
+
+# ADK
+app/.adk/

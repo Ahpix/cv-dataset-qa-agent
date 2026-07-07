@@ -100,7 +100,7 @@ Gemini 2.5 Flash generates a professional Markdown dataset quality report.
 Run the ADK Web application.
 
 ```bash
-adk web
+adk web app
 ```
 
 Then submit the following JSON:
